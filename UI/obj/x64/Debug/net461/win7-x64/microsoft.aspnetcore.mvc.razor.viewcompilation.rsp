@@ -1,0 +1,12 @@
+D:\Project\THP\SampleFabric\TestFabricApp\TestFabricApplication\UI
+--output-path=obj\x64\Debug\net461\win7-x64\
+--application-name=UI
+--content-root=D:\Project\THP\SampleFabric\TestFabricApp\TestFabricApplication\UI
+--file=D:\Project\THP\SampleFabric\TestFabricApp\TestFabricApplication\UI\Pages\About.cshtml
+--file=D:\Project\THP\SampleFabric\TestFabricApp\TestFabricApplication\UI\Pages\Contact.cshtml
+--file=D:\Project\THP\SampleFabric\TestFabricApp\TestFabricApplication\UI\Pages\Error.cshtml
+--file=D:\Project\THP\SampleFabric\TestFabricApp\TestFabricApplication\UI\Pages\Index.cshtml
+--file=D:\Project\THP\SampleFabric\TestFabricApp\TestFabricApplication\UI\Pages\_Layout.cshtml
+--file=D:\Project\THP\SampleFabric\TestFabricApp\TestFabricApplication\UI\Pages\_ValidationScriptsPartial.cshtml
+--file=D:\Project\THP\SampleFabric\TestFabricApp\TestFabricApplication\UI\Pages\_ViewImports.cshtml
+--file=D:\Project\THP\SampleFabric\TestFabricApp\TestFabricApplication\UI\Pages\_ViewStart.cshtml
